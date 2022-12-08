@@ -5,3 +5,6 @@ dessa forma a abordagem hibrida visa a utilização do algoritmo de bandwidth di
 
 #executar 
 sudo python3 02.py -V
+
+#git
+https://github.com/Daniel227a/Bandwidth-dinamico-emulado-em-redes-sem-fio-definidas-por-software.git
