@@ -4,6 +4,7 @@ Visto que em redes wireless o usuário tem a possibilidade de se locomover em di
 dessa forma a abordagem hibrida visa a utilização do algoritmo de bandwidth dinâmico  quando o host está se movimentando em direção oposta ao centro do ponto de acesso.
 
 #executar 
+
 sudo python3 02.py -V
 
 #git
